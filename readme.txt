@@ -1,4 +1,4 @@
-=== Seed Confirm ===
+#Seed Confirm - WP Plugin for sending bank slip (proof of payment)
 Contributors: SeedThemes
 Donate link: http://seedthemes.com/
 Tags: Woocommerce, BACS, Transfer Form
@@ -9,12 +9,14 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-== Description ==
+## Description
 
-Confirmation form for bank transfer payment (BACS) in WooCommerce.
+- Confirmation form for bank transfer payment (BACS) in WooCommerce
+- Automatically adds your orders into the order no. drop down
+- Sent forms will get its status changed by pre-fixing it with [NOTED]
 
 
-== Installation ==
+## Installation
 
 1. Upload the plugin files to the `/wp-content/plugins/seed-confirm` directory, or install the plugin through the WordPress plugins screen directly.
 1. Activate the plugin through the 'Plugins' screen in WordPress.
@@ -22,18 +24,19 @@ Confirmation form for bank transfer payment (BACS) in WooCommerce.
 1. Go to Confirm Logs to see each submited information.
 
 
-== Screenshots ==
+## Screenshots
 
 1. Front-end: Payment Form
-1. Back-end: Confirm Logs
+2. Back-end: Confirm Logs
 
-== Changelog ==
+
+### Changelog
 
 = 0.8.0 =
 * First public version.
 
 
-== Upgrade Notice ==
+### Upgrade Notice
 
 = 0.8.0 =
 * First public version.
