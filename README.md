@@ -32,11 +32,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Changelog
 
-0.8.0
-- First public version.
+- 0.8.0
+> First public version.
 
 
 ### Upgrade Notice
 
-0.8.0
-- First public version.
+- 0.8.0
+> First public version.
